@@ -1,0 +1,27 @@
+{"urls": [
+        {
+            "url": "https://raw.githubusercontent.com/pspoia/TVBox/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC.json",
+            "name": "饭太硬"
+        },
+		{
+            "url": "https://raw.githubusercontent.com/pspoia/TV/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC.json",
+            "name": "饭太硬备用"
+        },
+		{
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "王二小"
+        },
+		{
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "老刘备"
+        },
+		{
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "南风"
+        },
+		{
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/js.json",
+            "name": "高天流云"
+        }
+    ]
+}
